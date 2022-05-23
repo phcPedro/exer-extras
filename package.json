@@ -1,0 +1,21 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "typescript exercises",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start-exerone": "node exerOne/index.js",
+    "build-and-run-exerone": "npm run build && npm run start-exerone",
+    "start-exertwo": "node exerTwo/index.js",
+    "build-and-run-exertwo": "npm run build && npm run start-exertwo",
+    "start-exerthree": "node exerThree/index.js",
+    "build-and-run-exerthree": "npm run build && npm run start-exerthree"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
