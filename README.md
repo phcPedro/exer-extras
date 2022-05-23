@@ -1,6 +1,6 @@
 # exer-extras
 <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">
-Clone o repostiorio! Mão sabe como clonar? https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
+Clone o repostiorio! Não sabe como clonar? https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 
 instale dependencias utilizando ```npm i```
 
